@@ -1,0 +1,5 @@
+l = ["Rushi", "Lina", "Sanjana","Dinesh"]
+
+for name in l:
+ if(name.startswith("L")):
+  print(f"Hellow {name}")
